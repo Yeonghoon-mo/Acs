@@ -57,7 +57,7 @@
     </tr>
     <tr>
         <th rowspan=2>역할</th>
-        <th>OpenCV 코드 설계<br>카메라 모듈<br>도어락 연결<br>DB 서버 연동</th>
+        <th>OpenCV 코드 설계<br>카메라 모듈<br>도어락 연결<br>소스 취합</th>
         <th>DB 서버 구축(Spring)<br>소스 취합<br>텔레그램 연동<br>OpenCV 코드 설계</th>
         <th>DB 서버 연동<br> 카메라 모듈<br> 도어락 연결<br> 텔레그램 연동<br>OpenCV 코드 설계</th>
     </tr>
